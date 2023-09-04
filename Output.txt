@@ -1,0 +1,7 @@
+OUTPUT:
+Enter the Month Name:AUG
+31 Days in This Month
+Enter the Month Name:SEP
+30 Days in This Month
+Enter the Month Name:FEB
+28 or 29 Days in This Month
